@@ -54,6 +54,8 @@
 <br />
 
 - 📫 How to reach me 
+
 <br />
+
 [![gmail](https://img.shields.io/badge/-idrisayyildiz25@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:idrisayyildiz25@gmail.com)&nbsp;
 [![linkedin](https://img.shields.io/badge/-idrisay-D14836?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/idris-ay)
