@@ -23,6 +23,7 @@
 ![Redux-Saga](https://img.shields.io/badge/-ReduxSaga-141a20?style=flat&logo=redux-saga&logoColor=FCDC00)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-141a20?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-141a20?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-141a20?style=flat&logo=Tailwindcss&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/-SCSS-141a20?style=flat&logo=SASS)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)&nbsp;
 ![Git](https://img.shields.io/badge/-GitLab-141a20?style=flat&logo=gitlab)&nbsp;
