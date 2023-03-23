@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Idris Ay.
 - 🌱 I’m currently working as Full-Stack Web Developer.
 
+<br />
+
 ### 🛠 &nbsp;Tech Stack
 ![Typescript](https://img.shields.io/badge/-TypeScript-141a20?style=flat&logo=Typescript&logoColor=3178C6)&nbsp;
 ![JavasSript](https://img.shields.io/badge/-JavaScript-141a20?style=flat&logo=Javascript&logoColor=FCDC00)&nbsp;
@@ -25,12 +27,17 @@
 ![Git](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)&nbsp;
 ![Git](https://img.shields.io/badge/-GitLab-141a20?style=flat&logo=gitlab)&nbsp;
 
+<br />
+
 
 ### ⚙️ &nbsp;GitHub Analytics
-![Idris Ay's github stats](https://github-readme-stats.vercel.app/api?username=idrisay&count_private=true&theme=radical&show_icons=true&include_all_commits=true)&nbsp; 
+![Idris Ay's github stats](https://github-readme-stats.vercel.app/api?username=idrisay&count_private=true&theme=radical&show_icons=true&include_all_commits=true)&nbsp;
+
+<br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idrisay&layout=compact&theme=radical&count_private=true&langs_count=5&exclude_repo=BIL2002-final,MemoryGame-MadeWithUnity&hide=html,python,shell)
 
+<br />
 
 - 📫 How to reach me → 
 [![gmail](https://img.shields.io/badge/-idrisayyildiz25@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:idrisayyildiz25@gmail.com)
