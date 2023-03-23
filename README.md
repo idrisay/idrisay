@@ -6,6 +6,7 @@
 ![JavasSript](https://img.shields.io/badge/-JavaScript-141a20?style=flat&logo=Javascript&logoColor=FCDC00)&nbsp;
 ![react](https://img.shields.io/badge/-React-141a20?style=flat&logo=react&logoColor=61DAFB)&nbsp;
 ![next.js](https://img.shields.io/badge/-Next.js-141a20?style=flat&logo=next.js&logoColor=ffffff)&nbsp;
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-141a20?style=flat&logo=Node.js&logoColor=75AC63)&nbsp;
 ![nestjs](https://img.shields.io/badge/-NestJs-141a20?style=flat&logo=nestjs&logoColor=E0234E)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-141a20?style=flat&logo=Mongodb&logoColor=75AC63)&nbsp;
@@ -16,11 +17,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-141a20?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/-SCSS-141a20?style=flat&logo=SASS)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)&nbsp;
-![OpenCV](https://img.shields.io/badge/-OpenCV-141a20?style=flat&logo=opencv)&nbsp;
-![FabricJS](https://img.shields.io/badge/-FabricJS-141a20?style=flat&logo=fabricjs)&nbsp;
-![Cornerstone](https://img.shields.io/badge/-cornerstone-141a20?style=flat&logo=cornerstone)&nbsp;
-![OpenSeaDragon](https://img.shields.io/badge/-OpenSeaDragon-141a20?style=flat&logo=openseadragon)&nbsp;
-![Amcharts](https://img.shields.io/badge/-Amcharts-141a20?style=flat&logo=amcharts)&nbsp;
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 ![Idris Ay's github stats](https://github-readme-stats.vercel.app/api?username=idrisay&count_private=true&theme=radical&show_icons=true&include_all_commits=true)&nbsp; 
