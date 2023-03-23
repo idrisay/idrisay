@@ -6,7 +6,12 @@
 ![JavasSript](https://img.shields.io/badge/-JavaScript-141a20?style=flat&logo=Javascript&logoColor=FCDC00)&nbsp;
 ![react](https://img.shields.io/badge/-React-141a20?style=flat&logo=react&logoColor=61DAFB)&nbsp;
 ![next.js](https://img.shields.io/badge/-Next.js-141a20?style=flat&logo=next.js&logoColor=ffffff)&nbsp;
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-141a20?style=flat&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-141a20?style=flat&logo=livewire&logoColor=white)
+![Alpine](https://img.shields.io/badge/Alpine.js-141a20?style=flat&logo=alpine.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-141a20?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-141a20?style=flat&logo=mysql&logoColor=white)
+![Stripe](https://img.shields.io/badge/stripe-141a20?style=flat&logo=stripe&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-141a20?style=flat&logo=Node.js&logoColor=75AC63)&nbsp;
 ![nestjs](https://img.shields.io/badge/-NestJs-141a20?style=flat&logo=nestjs&logoColor=E0234E)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-141a20?style=flat&logo=Mongodb&logoColor=75AC63)&nbsp;
